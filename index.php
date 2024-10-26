@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gray-100">
     <div class="container mx-auto py-10">
-        <h2 class="text-3xl font-bold text-center mb-6">Contacts</h2>
+        <h2 class="text-3xl font-bold text-center mb-6">Crud Project</h2>
         <div class="flex justify-end mb-4">
             <a href="create.php" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add Contact</a>
         </div>
